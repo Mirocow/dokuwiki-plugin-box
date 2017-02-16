@@ -45,12 +45,12 @@ div.box .box_content {
 
 div.box.left {
   float: left;
-  margin-right: 1em;
+  /*margin-right: 1em;*/
 }
  
 div.box.right {
   float: right;
-  margin-left: 1em;
+  /*margin-left: 1em;*/
 }
 
 /* colours */
